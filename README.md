@@ -23,3 +23,7 @@ A demo of the project can be found [HERE](https://thefalco.github.io/ComputerGra
 - If you want to inspect closely a boat, just click on it!
 - Use <kbd>Q</kbd> <kbd>E</kbd> to move up and down while inspecting a boat.
 - Press <kbd>ESC</kbd> to exit inspection mode.
+
+### Data
+
+In _/data_ folder there is another example of light configuration file, you can use it to test the load function.
